@@ -14,8 +14,8 @@ A school board employee has given us the following tasks to analyise a set of da
 - Scores by school type
 
 ## Resources
-Data Source: students_complete.csv, schools_complete.csv
-Software: Jupyter Notebook, 6.3.0
+- Data Source: students_complete.csv, schools_complete.csv
+- Software: Jupyter Notebook, 6.3.0
 
 ## School District Analysis
 The 
