@@ -60,7 +60,5 @@ Now that the suspect data has been removed and the new count of valid students h
  ![charter adj](https://github.com/chefcramer/School_District_Analysis/blob/main/resources/charter%20adjusted.PNG)
  ![charter orig](https://github.com/chefcramer/School_District_Analysis/blob/main/resources/charter%20orig.PNG)
 
-
-
-
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+Removing the 9th graders test scores did not greatly affect the scores over the whole district, at most .4% of a percentage point. The sample size is simply too great (39100 total students) for the removal of 461 scores to make a large impact. This did affect Thomas High Schools' individual percentage scores, with-in the school, but not by a large enough margin to greatly affect the scores. That being said, it is still academic dishonesty, as well as fraud to mis represent the test scores to the school board to artificially increase the scores at Thomas High School.
